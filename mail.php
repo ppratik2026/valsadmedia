@@ -3,7 +3,7 @@
 $method = $_SERVER['REQUEST_METHOD'];
 
 // Enquiries are always delivered here; never take the recipient from the request.
-$admin_email = 'hello@valsadmedia.com';
+$admin_email = 'hello@patelpratik.in';
 
 //Script Foreach
 $c = true;
